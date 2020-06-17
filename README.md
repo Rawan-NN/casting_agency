@@ -85,6 +85,10 @@ delete:actors
 post:movies
 delete:movies
 
+* Base url: This API is currently hosted on the following url.
+ ```bash
+  https://casting-agency-app-rawan.herokuapp.com/
+  ```
 ## Endpoints
 ```bash
 GET '/movies'
